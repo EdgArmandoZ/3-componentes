@@ -1,5 +1,4 @@
-import { Component, Input, Output } from '@angular/core';
-import { EventEmitter } from 'stream';
+import { Component, Input, Output, EventEmitter } from '@angular/core';
 
 @Component({
   selector: 'app-hijo',

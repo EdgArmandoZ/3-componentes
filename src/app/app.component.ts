@@ -10,4 +10,5 @@ import { PadreComponent } from './padre/padre.component';
 })
 export class AppComponent {
   title = '3-componentes';
+ 
 }
